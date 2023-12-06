@@ -1,1 +1,3 @@
-# $${\color{turquoise}T\color{indigo}I}$$Tree
+# $\colorbox{turquoise}{\textcolor{black}T}$ $\colorbox{indigo}{I}$ Tree
+
+Red and black have always been two very controversial colors. In fact, thanks to a famous research that I won't mention because I just made it up, we know for certain that red and black is the most controversial color-pairing in history. From gambling to n*zi symbolism, from FC Milan to the flag of Trinidad and Tobago, these colours have in fact being asssociated with some of the most outrageous things that humans have been capable of in their existence.
