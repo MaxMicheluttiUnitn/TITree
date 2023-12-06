@@ -1,2 +1,2 @@
-# $\color{turquoise}{T}$ $\color{indigo}{I}$ Tree
+# $\color{turquoise}{TURQUOISE}$  $\color{indigo}{INDIGO}$  $\color{white}{TREE}$
 
