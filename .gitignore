@@ -1,0 +1,6 @@
+*.svg
+*.dot
+*.ps
+*.out
+/.vscode
+
